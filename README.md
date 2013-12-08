@@ -43,7 +43,7 @@ Numbers
 Classic Algorithms
 -----------------
 
-**Collatz Conjecture** - Start with a number *n > 1*. Find the number of steps it takes to reach one using the following process: If *n* is even, divide it by 2. If *n* is odd, multiply it by 3 and add 1.
+[**Collatz Conjecture**](https://github.com/tailnode/Projects/tree/master/Classic Algorithms/collatz_conjecture.py) - Start with a number *n > 1*. Find the number of steps it takes to reach one using the following process: If *n* is even, divide it by 2. If *n* is odd, multiply it by 3 and add 1.
 
 [**Sorting**](https://github.com/tailnode/Projects/tree/master/Classic Algorithms/sorting.py) - Implement two types of sorting algorithms: Merge sort and bubble sort.
 
